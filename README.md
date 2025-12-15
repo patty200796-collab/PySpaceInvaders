@@ -18,7 +18,7 @@
 
 <img src="https://i.imgur.com/WKrfXYW.gif" />
 
-<img src="https://i.imgur.com/H9q8WB7.gif" />
+<img src="p2.png" />
 
 </p>
 
